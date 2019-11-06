@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    var appID = "da9ee3ddb46b386ecd69f797bbede23b";
+    var appID = "YOUR API KEY IS GOING TO GO HERE. IT NEEDS TO BE A STRING SO LEAVE THE QUOTES";
 
     $(".query_btn").click(function(){
 
